@@ -10,7 +10,7 @@ Heart Failure + amiodarone:	GrayFranzHumanModel2023_HF_AMn.cellml
 	where n=1 to 8 representing 8 variants to incorporate the
  	disparate voltage clamp results of chronic amiodarone
 
-# Tool Reference
+# Regulatory Science Tool (RST) Reference
 •	RST Reference Number: RST24CV17.01  
 •	Date of Publication: 06/06/2024  
 •	Recommended Citation: U.S. Food and Drug Administration. (2024). Extended Human Action Potential Model for Heart Failure (RST24CV17.01). https://cdrh-rst.fda.gov/extended-human-action-potential-model-heart-failure  
